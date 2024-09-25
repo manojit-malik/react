@@ -1,0 +1,16 @@
+.myClass{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border: border-box; */
+    box-sizing: border-box;
+}
+
+.ExternalComp{
+    color: brown;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

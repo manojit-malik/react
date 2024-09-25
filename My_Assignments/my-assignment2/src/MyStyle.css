@@ -1,0 +1,15 @@
+.ExternalComp{
+    margin: 2px solid black;
+    width: 500px;
+    background-color: aquamarine;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border: border-box; */
+    box-sizing: border-box;
+    margin-bottom: 80px;
+}
+
+.ExternalStyle {
+    width: 1000px;
+    background-color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,0 +1,28 @@
+.parent {
+    margin-top: 150px;
+    background-color: cadetblue;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    color: white;
+    margin-left: 400px;
+}
+
+.child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    height: 100px;
+    width: 600px;
+    border: 2px solid black;
+    margin-right: 30px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+

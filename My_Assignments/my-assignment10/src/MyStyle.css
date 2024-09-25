@@ -1,0 +1,54 @@
+.display {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+body {
+    background-color: aliceblue;
+}
+h1 {
+    color: white;
+    border: 2px solid black;
+    background-color: blueviolet;
+}
+
+h6 {
+    color: purple;
+
+}
+.count {
+    margin-top: 100px ;
+}
+
+.remove {
+    margin-top: 100px ;
+}
+
+.itemNames {
+    color: rgb(16, 19, 58);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.inp {
+    margin-right: 30px;
+    height: 30px;
+    width: 250px;
+} 
+
+center {
+    
+    margin-left: 400px;
+    width: 700px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    background-color:rgb(251, 222, 0);
+    color: black;
+}
+
+.aTen {
+    background-color: aliceblue;
+    height: 800px;
+}

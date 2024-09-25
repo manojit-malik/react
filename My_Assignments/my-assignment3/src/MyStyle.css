@@ -1,0 +1,43 @@
+.marginRight {
+    margin-right: 20px;
+    width: 120px;
+    height: 30px;
+}
+
+#increase {
+    background-color: greenyellow;
+}
+
+#reset {
+    background-color: blue;
+    color: antiquewhite;
+}
+
+#decrease {
+    background-color: red;
+}
+
+h3 {
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman';
+    margin-right: 15px;
+    border: 2px solid black;
+}
+
+center {
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: 150px;
+    background-color: rgb(226, 191, 163);
+}
+
+body {
+    background-color: rgb(75, 69, 69);
+}
