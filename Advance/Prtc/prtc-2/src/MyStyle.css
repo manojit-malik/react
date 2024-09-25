@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(205, 66, 89);
+}
+
+hr {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 1px solid rgb(84, 63, 222);
+}
+
+input {
+    width: 500px;
+    margin-top: 20px;  
+    margin-bottom: 20px; 
+    border: 1px solid rgb(205, 66, 89); 
+}
+
+body {
+    background-color: bisque;
+}
+
+label , p{
+    font-weight: bolder;
+    color: rgb(205, 66, 89);
+}

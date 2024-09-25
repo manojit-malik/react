@@ -1,0 +1,139 @@
+table {
+    width: 50%;
+    margin-left: 40px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+th {
+    text-align: left;
+    color: aliceblue;
+    background-color: rgb(46, 44, 44);
+}
+
+tr {
+    background-color: rgb(199, 141, 47);
+}
+
+tr:hover {
+    background-color: black;
+    color: aqua;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+
+.nav{
+    display: inline; 
+    margin-right: 10px; 
+    text-decoration: none;
+    
+}
+
+li {
+margin-left: 70px;
+    margin-bottom: 40px;
+}
+
+
+a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+a:hover {
+   font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: bisque;
+}
+
+.heading {
+    background-color: black;
+    color: aquamarine;
+    padding: 20px;
+   
+}
+
+img {
+    margin-left: 40px;
+}
+
+.team-container {
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    perspective: 1000px; 
+}
+
+.team-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team-list-item {
+    width: calc(50% - 20px); 
+    margin: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.team-list-item:hover {
+    transform: translateY(-5px) rotateX(5deg); 
+    color: white;
+    background-size: cover;
+    background-image: url('cric.jpg');
+}
+
+.team-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff; 
+}
+
+.team-description {
+    font-size: 16px;
+    color: #555;
+    margin-top: 8px;
+}
+
+.team-list-item:hover .team-description {
+    color: white;
+    font-weight: 200px;
+}
+
+
+.container {
+ 
+    padding: 20px;
+     
+    border: 1px solid #ccc;
+     
+    background-color: #f9f9f9;
+     
+    }
+     
+    .hovered {
+     
+    background-color: yellow;
+     
+    color: red;
+     
+    }
+     
+    .item-list .item:hover {
+     
+    cursor: pointer;
+     
+    }
